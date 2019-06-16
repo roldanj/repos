@@ -1,0 +1,6 @@
+C:\Users\Jerry Roldan\source\repos\MyCodedUITestProject2\MyCodedUITestProject2\bin\Debug\MyCodedUITestProject2.dll
+C:\Users\Jerry Roldan\source\repos\MyCodedUITestProject2\MyCodedUITestProject2\bin\Debug\MyCodedUITestProject2.pdb
+C:\Users\Jerry Roldan\source\repos\MyCodedUITestProject2\MyCodedUITestProject2\obj\Debug\MyCodedUITestProject2.csprojAssemblyReference.cache
+C:\Users\Jerry Roldan\source\repos\MyCodedUITestProject2\MyCodedUITestProject2\obj\Debug\MyCodedUITestProject2.csproj.CoreCompileInputs.cache
+C:\Users\Jerry Roldan\source\repos\MyCodedUITestProject2\MyCodedUITestProject2\obj\Debug\MyCodedUITestProject2.dll
+C:\Users\Jerry Roldan\source\repos\MyCodedUITestProject2\MyCodedUITestProject2\obj\Debug\MyCodedUITestProject2.pdb
